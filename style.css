@@ -175,7 +175,7 @@ h6 {font-size: 16px;}
     
 
     margin: 5px;
-    border: 2px solid var(--themeDotBorder);
+    border: 2px solid black;
 
 
     -webkit-box-shadow: -1px 1px 3px -1px rgba(0,0,0,0.75);
